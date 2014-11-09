@@ -1,8 +1,6 @@
 CSharpTools
 ===========
 
-#CSharp Tools
-
 ## LineCount
 ただひたすらCRLFをカウントするコマンド(exe)
 
